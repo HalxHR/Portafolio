@@ -22,10 +22,10 @@ Este repositorio contiene mi portafolio como analista de datos junior. Aquí enc
 
 ## Contacto
 
-*Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme:*
+*Si tienes alguna pregunta o consulta, no dudes en contactarme:*
 
 * **Correo electrónico:** halxhernandez@gmail.com
 
 * **LinkedIn:** https://www.linkedin.com/in/halx
 
-### ¡Gracias por visitar mi portafolio!
+## ¡Gracias por visitar mi portafolio!

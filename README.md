@@ -4,27 +4,28 @@ Este repositorio contiene mi portafolio como analista de datos junior. Aquí enc
 
 ## Proyectos
 
-* ### Proyecto 1: Análisis de ventas mensuales
+### Proyecto 1: Análisis de ventas mensuales
 
-**Descripción:** Este proyecto consistió en analizar los datos de ventas mensuales de una empresa con el objetivo de identificar patrones y tendencias. Se utilizaron técnicas de visualización de datos y análisis estadístico para extraer información relevante.
+* **Descripción:** Este proyecto consistió en analizar los datos de ventas mensuales de una empresa con el objetivo de identificar patrones y tendencias. Se utilizaron técnicas de visualización de datos y análisis estadístico para extraer información relevante.
 
-**Tecnologías utilizadas:** Python, pandas, matplotlib, Jupyter Notebook.
-**Enlaces:** Informe final, Código fuente.
+* **Tecnologías utilizadas:** Python, pandas, matplotlib, Jupyter Notebook.
 
-* ### Proyecto 2: Segmentación de clientes
+* **Enlaces:** Informe final, Código fuente.
 
-**Descripción:** En este proyecto se realizó un análisis de segmentación de clientes utilizando técnicas de aprendizaje no supervisado. El objetivo fue agrupar a los clientes en diferentes categorías con base en su comportamiento de compra.
+### Proyecto 2: Segmentación de clientes
 
-**Tecnologías utilizadas:** Python, scikit-learn, pandas, Jupyter Notebook.
+* **Descripción:** En este proyecto se realizó un análisis de segmentación de clientes utilizando técnicas de aprendizaje no supervisado. El objetivo fue agrupar a los clientes en diferentes categorías con base en su comportamiento de compra.
 
-**Enlaces:** Informe final, Código fuente.
+* **Tecnologías utilizadas:** Python, scikit-learn, pandas, Jupyter Notebook.
+
+* **Enlaces:** Informe final, Código fuente.
 
 ## Contacto
 
-Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme:
+*Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme:*
 
-**Correo electrónico:** halxhernandez@gmail.com
+* **Correo electrónico:** halxhernandez@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/halx
+* **LinkedIn:** https://www.linkedin.com/in/halx
 
 ### ¡Gracias por visitar mi portafolio!

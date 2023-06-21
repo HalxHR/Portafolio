@@ -4,7 +4,7 @@ Este repositorio contiene mi portafolio como analista de datos junior. Aquí enc
 
 ## Proyectos
 
-### \_Proyecto 1: Análisis de ventas mensuales\_
+### \_Proyecto\_ 1: Análisis de ventas mensuales\_
 
 * **Descripción:** Este proyecto consistió en analizar los datos de ventas mensuales de una empresa con el objetivo de identificar patrones y tendencias. Se utilizaron técnicas de visualización de datos y análisis estadístico para extraer información relevante.
 

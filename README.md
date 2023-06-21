@@ -26,4 +26,4 @@ Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contacta
 **Correo electrónico:** halxhernandez@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/halx
 
-## <center>¡Gracias por visitar mi portafolio!</center>
+## <center>¡Gracias por visitar mi portafolio!<center>
